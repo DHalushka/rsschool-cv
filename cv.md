@@ -4,7 +4,7 @@
 
 Minsk, Belarus  •  +375(33)341-01-31  •  [galushkodaria@gmail.com](mailto:galushkodaria@gmail.com)
 
-[![](https://33333.cdn.cke-cs.com/kSW7V9NHUXugvhoQeFaf/images/7ed1581e8c57ed1fd7c229f61bc58ef1408dbb28afdaeb6d.png)](https://www.linkedin.com/in/daria_galushko)   [![](https://33333.cdn.cke-cs.com/kSW7V9NHUXugvhoQeFaf/images/31a644def4215b4594be7414525dd86d2063554aace61884.png)](https://github.com/DHalushka)
+[<img src="https://33333.cdn.cke-cs.com/kSW7V9NHUXugvhoQeFaf/images/7ed1581e8c57ed1fd7c229f61bc58ef1408dbb28afdaeb6d.png"  width="10%" >](https://www.linkedin.com/in/daria_galushko)   [ <img src="https://33333.cdn.cke-cs.com/kSW7V9NHUXugvhoQeFaf/images/31a644def4215b4594be7414525dd86d2063554aace61884.png"  width="10%" >](https://github.com/DHalushka)
 
 ---
 
@@ -14,6 +14,6 @@ Growing front end developer. Proficient in JavaScript programming language. Have
 
 ### Key Skills
 
-*   English (B2+)          •  Node.js                    •  CSS3               •  Figma
-*   JavaScript               •  Git                            •  SASS               •  REST APIs
-*   React                       •  ECMAScript6           •  HTML5            •  JSON
+*   English (B2+)          ●  Node.js                    ●  CSS3               ●  Figma
+*   JavaScript               ●  Git                            ●  SASS               ●  REST APIs
+*   React                       ●  ECMAScript6           ●  HTML5            ●  JSON
