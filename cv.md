@@ -37,14 +37,14 @@ _Recruited as an intern to work with IBM server platforms and technologies._
    
 ### Education
 
+**Belarussian State University of Informatics and Radioelectronics**, Economics in Electronic
+Business, 2023
+
 ---
 
 ### Code Example
 
-**Belarussian State University of Informatics and Radioelectronics**, Economics in Electronic
-Business, 2023
-
-**KATA from Codewars:** _Calculates the average of the given array and compares to your score. Returns_ `_true_` _if you're better, else_ `_false_`_!_
+**KATA from Codewars:** _Calculates the average of the given array and compares to your score. Returns true if you're better, else false.
 
 ```plaintext
 function betterThanAverage(classPoints, yourPoints) {
