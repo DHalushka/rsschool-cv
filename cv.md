@@ -20,12 +20,22 @@ Growing front end developer. Proficient in JavaScript programming language. Have
 
 ### Experience
 
-<! - html_preserve →
-    <span style="background-color:lightgrey;"><b>Internship</b>, RedBark | March 2023 - April 2023</span>
-<! - /html_preserve →
+**Internship**, RedBark | March 2023 - April 2023
 
-<! - html_preserve →
-    <span style="background-color:lightgrey;"><b>Internship</b>, IBA Group | September 2021 - December 2021</span>
-<! - /html_preserve →
+_Pre-diploma practice on the basis of which the project of the Electronic Games Marketplace and Marketing Strategy of its Introduction to the Market was created._
 
+*   Creating multi-page site with the electronic platform for selling computer games.
+*   Using JavaScript, ReactJS framework, database cloud service “Firebase”.
+
+**Internship**, IBA Group | September 2021 - December 2021
+
+_Recruited as an intern to work with IBM server platforms and technologies._
+
+*   Using Java to work with IBM server platforms. 
+*   Development of a web interface using open-source technologies. 
+*   Administration and programming for IBM DB2 relational databases. SQL Deep Learning.
+   
 ### Education
+
+**Belarussian State University of Informatics and Radioelectronics**, Economics in Electronic
+Business, 2023
