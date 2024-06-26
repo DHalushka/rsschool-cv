@@ -1,6 +1,6 @@
 <img src="https://33333.cdn.cke-cs.com/kSW7V9NHUXugvhoQeFaf/images/cbd7b7bc4a98c3bca44ba835bea97b2197a8bf5ecdab0308.jpg"  width="20%" height="20%">
 
-## Daria Galushko
+# Daria Galushko
 
 Minsk, Belarus  •  +375(33)341-01-31  •  [galushkodaria@gmail.com](mailto:galushkodaria@gmail.com)
 
@@ -37,5 +37,21 @@ _Recruited as an intern to work with IBM server platforms and technologies._
    
 ### Education
 
+---
+
+### Code Example
+
 **Belarussian State University of Informatics and Radioelectronics**, Economics in Electronic
 Business, 2023
+
+**KATA from Codewars:** _Calculates the average of the given array and compares to your score. Returns_ `_true_` _if you're better, else_ `_false_`_!_
+
+```plaintext
+function betterThanAverage(classPoints, yourPoints) {
+  let sum=0;
+  classPoints.forEach(e=>sum+=e;)
+
+  let average = sum/classPoints.length;
+  return yourPoints > average;
+}
+```
