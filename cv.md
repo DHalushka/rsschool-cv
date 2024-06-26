@@ -1,4 +1,4 @@
-![Profile photo](https://33333.cdn.cke-cs.com/kSW7V9NHUXugvhoQeFaf/images/cbd7b7bc4a98c3bca44ba835bea97b2197a8bf5ecdab0308.jpg)
+<img src="https://33333.cdn.cke-cs.com/kSW7V9NHUXugvhoQeFaf/images/cbd7b7bc4a98c3bca44ba835bea97b2197a8bf5ecdab0308.jpg"  width="20%" height="20%">
 
 ## Daria Galushko
 
