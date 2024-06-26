@@ -17,3 +17,15 @@ Growing front end developer. Proficient in JavaScript programming language. Have
 *   English (B2+)          ●  Node.js                    ●  CSS3               ●  Figma
 *   JavaScript               ●  Git                            ●  SASS               ●  REST APIs
 *   React                       ●  ECMAScript6           ●  HTML5            ●  JSON
+
+### Experience
+
+<! - html_preserve →
+    <span style="background-color:lightgrey;"><b>Internship</b>, RedBark | March 2023 - April 2023</span>
+<! - /html_preserve →
+
+<! - html_preserve →
+    <span style="background-color:lightgrey;"><b>Internship</b>, IBA Group | September 2021 - December 2021</span>
+<! - /html_preserve →
+
+### Education
