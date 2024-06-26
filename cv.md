@@ -16,19 +16,19 @@ Growing front end developer. Proficient in JavaScript programming language. Have
 
 *   English (B2+)          ●  Node.js                    ●  CSS3               ●  Figma
 *   JavaScript               ●  Git                            ●  SASS               ●  REST APIs
-*   React                       ●  ECMAScript6           ●  HTML5            ●  JSON
+*   React                      ●  ECMAScript6           ●  HTML5            ●  JSON
 
 ### Experience
 
 **Internship**, RedBark | March 2023 - April 2023
-
+---
 _Pre-diploma practice on the basis of which the project of the Electronic Games Marketplace and Marketing Strategy of its Introduction to the Market was created._
 
 *   Creating multi-page site with the electronic platform for selling computer games.
 *   Using JavaScript, ReactJS framework, database cloud service “Firebase”.
 
 **Internship**, IBA Group | September 2021 - December 2021
-
+---
 _Recruited as an intern to work with IBM server platforms and technologies._
 
 *   Using Java to work with IBM server platforms. 
