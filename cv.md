@@ -9,26 +9,28 @@ Minsk, Belarus  •  +375(33)341-01-31  •  [galushkodaria@gmail.com](mailt
 ---
 
 ### Professional Summary
+---
 
 Growing front end developer. Proficient in JavaScript programming language. Have skills in website layout using HTML(5), CSS(3), SASS, Flex and Grid. Have experience in full stack development working with node.js and React. Fluent in English (level B2+). Willing to develop and learn new skills.
 
 ### Key Skills
+---
 
 *   English (B2+)          ●  Node.js                    ●  CSS3               ●  Figma
 *   JavaScript               ●  Git                            ●  SASS               ●  REST APIs
-*   React                      ●  ECMAScript6           ●  HTML5            ●  JSON
+*   React                     ●  ECMAScript6           ●  HTML5            ●  JSON
 
 ### Experience
-
-**Internship**, RedBark | March 2023 - April 2023
 ---
+
+###**Internship**, RedBark | March 2023 - April 2023
 _Pre-diploma practice on the basis of which the project of the Electronic Games Marketplace and Marketing Strategy of its Introduction to the Market was created._
 
 *   Creating multi-page site with the electronic platform for selling computer games.
 *   Using JavaScript, ReactJS framework, database cloud service “Firebase”.
 
-**Internship**, IBA Group | September 2021 - December 2021
----
+### **Internship**, IBA Group | September 2021 - December 2021
+
 _Recruited as an intern to work with IBM server platforms and technologies._
 
 *   Using Java to work with IBM server platforms. 
@@ -36,6 +38,7 @@ _Recruited as an intern to work with IBM server platforms and technologies._
 *   Administration and programming for IBM DB2 relational databases. SQL Deep Learning.
    
 ### Education
+---
 
 **Belarussian State University of Informatics and Radioelectronics**, Economics in Electronic
 Business, 2023
@@ -43,8 +46,9 @@ Business, 2023
 ---
 
 ### Code Example
+---
 
-**KATA from Codewars:** _Calculates the average of the given array and compares to your score. Returns true if you're better, else false.
+**KATA from Codewars:** _Calculates the average of the given array and compares to your score. Returns true if you're better, else false._
 
 ```plaintext
 function betterThanAverage(classPoints, yourPoints) {
