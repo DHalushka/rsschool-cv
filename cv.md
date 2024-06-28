@@ -4,7 +4,7 @@
 
 Minsk, Belarus  •  +375(33)341-01-31  •  [galushkodaria@gmail.com](mailto:galushkodaria@gmail.com)  •  Daria (@dhalushka)
 
-[<img src="https://33333.cdn.cke-cs.com/kSW7V9NHUXugvhoQeFaf/images/7ed1581e8c57ed1fd7c229f61bc58ef1408dbb28afdaeb6d.png"  width="10%" >](https://www.linkedin.com/in/daria-galushko/)   [ <img src="https://33333.cdn.cke-cs.com/kSW7V9NHUXugvhoQeFaf/images/31a644def4215b4594be7414525dd86d2063554aace61884.png"  width="10%" >](https://github.com/DHalushka)   [ <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ficon-icons.com%2Ficon%2Ftelegram-logo%2F168691&psig=AOvVaw3lJd0vsA7hPi76QqHBScrk&ust=1719665698469000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCJj0_Iqs_oYDFQAAAAAdAAAAABAZ"  width="10%" >](https://t.me/daria_galushko)
+[<img src="https://33333.cdn.cke-cs.com/kSW7V9NHUXugvhoQeFaf/images/7ed1581e8c57ed1fd7c229f61bc58ef1408dbb28afdaeb6d.png"  width="10%" >](https://www.linkedin.com/in/daria-galushko/)   [ <img src="https://33333.cdn.cke-cs.com/kSW7V9NHUXugvhoQeFaf/images/31a644def4215b4594be7414525dd86d2063554aace61884.png"  width="10%" >](https://github.com/DHalushka)   [ <img src="https://33333.cdn.cke-cs.com/kSW7V9NHUXugvhoQeFaf/images/7ba099db52faa0ce54046040be0a6cdf4d9f4f3f61243eb4.png"  width="10%" >](https://t.me/daria_galushko)
 
 ---
 
@@ -18,7 +18,7 @@ Growing front end developer. Proficient in JavaScript programming language. Have
 
 *   English (B2+)          ●  Node.js                    ●  CSS3               ●  Figma
 *   JavaScript               ●  Git                            ●  SASS               ●  REST APIs
-*   React                     ●  ECMAScript6           ●  HTML5            ●  JSON
+*   React                     ●  ECMAScript6            ●  HTML5            ●  JSON
 
 ## Experience
 
