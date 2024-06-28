@@ -2,9 +2,9 @@
 
 # Daria Galushko
 
-Minsk, Belarus  •  +375(33)341-01-31  •  [galushkodaria@gmail.com](mailto:galushkodaria@gmail.com)
+Minsk, Belarus  •  +375(33)341-01-31  •  [galushkodaria@gmail.com](mailto:galushkodaria@gmail.com)  •  Daria (@dhalushka)
 
-[<img src="https://33333.cdn.cke-cs.com/kSW7V9NHUXugvhoQeFaf/images/7ed1581e8c57ed1fd7c229f61bc58ef1408dbb28afdaeb6d.png"  width="10%" >](https://www.linkedin.com/in/daria_galushko)   [ <img src="https://33333.cdn.cke-cs.com/kSW7V9NHUXugvhoQeFaf/images/31a644def4215b4594be7414525dd86d2063554aace61884.png"  width="10%" >](https://github.com/DHalushka)
+[<img src="https://33333.cdn.cke-cs.com/kSW7V9NHUXugvhoQeFaf/images/7ed1581e8c57ed1fd7c229f61bc58ef1408dbb28afdaeb6d.png"  width="10%" >](https://www.linkedin.com/in/daria-galushko/)   [ <img src="https://33333.cdn.cke-cs.com/kSW7V9NHUXugvhoQeFaf/images/31a644def4215b4594be7414525dd86d2063554aace61884.png"  width="10%" >](https://github.com/DHalushka)
 
 ---
 
@@ -57,3 +57,15 @@ function betterThanAverage(classPoints, yourPoints) {
   return yourPoints > average;
 }
 ```
+
+---
+
+## My Projects
+
+### Indoor
+> _Electronic Games Marketplace with its own social media platform. Visual Studio Code development environment was used to write the code, developed in JavaScript programming language using ReactJS framework. The NoSQL «Firebase» cloud service was used as a database. Website includes Library, Messages, Friends, Schedule and Homepage. As well as Registration, Log in, About Us and other pages._
+ [**GitHub link**](https://github.com/DHalushka/React-Indoor-website)
+
+### Calculator
+>_Basic JS App (without Frameworks and library usage). The following mathematical functions are implemented: division, multiplication, subtraction, addition, percentage, change of sign. Does not use eval, Math and other third-party libraries. Implemented by Theme-managenent. Ability to easily change the color scheme of the application **from within the application**_
+[**GitHub link**](https://github.com/DHalushka/VanillaJs-Calculator)
