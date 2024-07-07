@@ -6,36 +6,58 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="style.css">
-    <title>Daria Galushko</title>
+    <title>cv</title>
 </head>
 
 <body>
     <header>
-        <div>
-            <h1>Daria Galushko</h1>
+        <nav>
             <ul>
-                <li>Minsk, Belarus</li>
-                <li><a href="tel:+375333410131">+375(33)341-01-31</a></li>
-                <li> <a href="mailto:galushkodaria@gmail.com">galushkodaria@gmail.com</a></li>
-                <li>Daria (@dhalushka)</li>
+                <li><a href="#contacts">Contacts</a></li>
+                <li><a href="#summary">Professional Summary</a></li>
+                <li><a href="#skills">Key Skills</a></li>
+                <li><a href="#experience">Experience</a></li>
+                <li><a href="#education">Education</a></li>
+                <li><a href="#codeexample">Code Example</a></li>
+                <li><a href="#myprojects">My projects</a></li>
             </ul>
-            <ul class="social-links">
-                <li><a href="https://www.linkedin.com/in/daria-galushko/"><img src="/resourse/LinkedInlogo.png"
-                            alt="LinkedIn"></a></li>
-                <li><a href="https://github.com/DHalushka"><img src="/resourse/githublogo.png" alt="GitHub"></a></li>
-                <li><a href="https://t.me/daria_galushko"><img src="/resourse/telegramlogo.png" alt="Telegram"></a></li>
-            </ul>
-        </div>
-
-        <img src="/resourse/profilephoto.jpg" alt="profile photo">
+        </nav>
     </header>
     <hr>
     <main>
-        <h2>Professional Summary</h2>
-        <p>Growing front end developer. Proficient in JavaScript programming language. Have skills in website layout
-            using HTML(5), CSS(3), SASS, Flex and Grid. Have experience in full stack development working with node.js
-            and React. Fluent in English (level B2+). Willing to develop and learn new skills.</p>
-        <div class="skills">
+        <section id="contacts">
+            <div>
+                <h1>Daria Galushko</h1>
+                <ul>
+                    <li>Minsk, Belarus</li>
+                    <li><a href="tel:+375333410131">+375(33)3410131</a></li>
+                    <li> <a href="mailto:galushkodaria@gmail.com">galushkodaria@gmail.com</a></li>
+                    <li>Daria (@dhalushka)</li>
+                </ul>
+                <ul class="social-links">
+                    <li><a href="https://www.linkedin.com/in/daria-galushko/"><img src="/resourse/LinkedInlogo.png"
+                                alt="LinkedIn"></a></li>
+                    <li><a href="https://github.com/DHalushka"><img src="/resourse/githublogo.png" alt="GitHub"></a>
+                    </li>
+                    <li><a href="https://t.me/daria_galushko"><img src="/resourse/telegramlogo.png" alt="Telegram"></a>
+                    </li>
+                </ul>
+            </div>
+            <img src="/resourse/profilephoto.jpg" alt="profile photo">
+        </section>
+
+
+        <hr>
+
+
+        <section id="summary">
+            <h2>Professional Summary</h2>
+            <p>Growing front end developer. Proficient in JavaScript programming language. Have skills in website layout
+                using HTML(5), CSS(3), SASS, Flex and Grid. Have experience in full stack development working with
+                node.js
+                and React. Fluent in English (level B2+). Willing to develop and learn new skills.</p>
+        </section>
+        <section id="skills">
             <h2>Key Skills</h2>
             <div>
                 <ul>
@@ -59,9 +81,9 @@
                     <li>JSON</li>
                 </ul>
             </div>
-        </div>
+        </section>
 
-        <div class="experience">
+        <section id="experience">
             <h2>Experience</h2>
 
             <p class="experience-place"><b>Internship</b>, RedBark | March 2023 - April 2023</p>
@@ -85,13 +107,13 @@
                 <li>Development of a web interface using open-source technologies.</li>
                 <li>Administration and programming for IBM DB2 relational databases. SQL Deep Learning.</li>
             </ul>
-        </div>
-        <div class="education">
+        </section>
+        <section id="education">
             <h2>Education</h2>
             <p><b>Belarussian State University of Informatics and Radioelectronics</b>, Economics in Electronic
                 Business, 2023</p>
-        </div>
-        <div class="codeexample">
+        </section>
+        <section id="codeexample">
             <h2>Code Example</h2>
             <p><b>KATA from Codewars: </b><i>Calculates the average of the given array and compares to
                     your score. Returns true if you're better, else false.</i></p>
@@ -102,11 +124,11 @@
         let average = sum/classPoints.length; <br>
         return yourPoints > average; <br>
     }</code>
-        </div>
+        </section>
 
         <hr>
 
-        <div class="myprojects">
+        <section id="myprojects">
             <h2>My Projects</h2>
             <h3>Indoor</h3>
             <blockquote>Electronic Games Marketplace with its own social media platform. Visual Studio Code development
@@ -126,24 +148,22 @@
                 scheme
                 of the application from within the application <a
                     href="https://github.com/DHalushka/VanillaJs-Calculator">GitHub link</a> </blockquote>
-        </div>
+        </section>
     </main>
     <hr>
     <footer>
-        <nav>
-            <ul>
-                <li>
-                    <a href="https://github.com/DHalushka">My GitHub</a>
-                </li>
-                <li>
-                    <img src="/resourse/rs-school-logo.svg" alt="rs-school-logo">
-                </li>
-                <li>
-                    <a href="https://rs.school/courses/javascript-ru">JavaScript course</a>
-                </li>
-                <li>2024</li>
-            </ul>
-        </nav>
+        <ul>
+            <li>
+                <a href="https://github.com/DHalushka">My GitHub</a>
+            </li>
+            <li>
+                <img src="/resourse/rs-school-logo.svg" alt="rs-school-logo">
+            </li>
+            <li>
+                <a href="https://rs.school/courses/javascript-ru">JavaScript course</a>
+            </li>
+            <li>2024</li>
+        </ul>
     </footer>
 </body>
 
