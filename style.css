@@ -1,9 +1,4 @@
 /*Обнуление*/
-*{
-	padding: 0;
-	margin: 0;
-	border: 0;
-}
 *,*:before,*:after{
 	-moz-box-sizing: border-box;
 	-webkit-box-sizing: border-box;
@@ -15,22 +10,105 @@ a:focus,a:active{outline: none;}
 nav,footer,header,aside{display: block;}
 
 html,body{
+	padding: 0;
+	margin: 0;
+	border: 0;
 	height: 100%;
 	width: 100%;
 	font-size: 100%;
 	line-height: 1;
-	font-size: 14px;
+	font-size: 16px;
 	-ms-text-size-adjust: 100%;
 	-moz-text-size-adjust: 100%;
 	-webkit-text-size-adjust: 100%;
+	-ms-overflow-style: none;  /* IE and Edge */
+	scrollbar-width: none;  
+	scroll-behavior: smooth;
+	display: flex;
+	flex-direction: column;
+	justify-content: space-between;
 }
 input,button,textarea{font-family:inherit;}
 input::-ms-clear{display: none;}
 button{cursor: pointer;}
 button::-moz-focus-inner {padding:0;border:0;}
-a, a:visited{text-decoration: none;}
+a, a:visited{text-decoration: none; color: black;}
 a:hover{text-decoration: none;}
 ul li{list-style: none;}
 img{vertical-align: top;}
+body::-webkit-scrollbar {
+	display: none;
+}
+
+
 
 h1,h2,h3,h4,h5,h6{/*font-size:inherit;*/font-weight: 400;}
+
+
+
+body{
+	width: 60%;
+	margin: 0 auto;
+	background-color: lightgrey;
+}
+h2{
+	text-align: center;
+}
+#contacts{
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+}
+#contacts>img{
+	width: 20%;
+}
+#contacts ul{
+	display: flex;
+	gap: 20px;
+}
+
+.social-links img{
+    width: 100px;
+}
+
+#skills > div{
+	display: flex;
+	justify-content: center;
+}
+#skills li::before{
+	content: "\2713 ";
+	margin-right: 4px;
+}
+.experience-place{
+	background-color: darkgray;
+}
+#experience ul li{
+	list-style-type: disc;
+}
+#myprojects a{
+	color: darkblue;
+}
+hr{
+	height: 6px;
+	background-color: darkgrey;
+	border: none;
+	margin-top: 30px;
+}
+footer, header{
+	background-color: darkgray;
+	padding: 20px 0;
+}
+footer img{
+	height: 100%;
+}
+footer ul, header ul{
+	display: flex;
+	justify-content: space-around;
+}
+a:hover{
+	font-weight: 900;
+}
+a img:hover{
+	width: 120px;
+	transition: 0.3s;
+}
