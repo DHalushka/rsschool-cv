@@ -4,7 +4,7 @@
 
 Minsk, Belarus  •  +375(33)341-01-31  •  [galushkodaria@gmail.com](mailto:galushkodaria@gmail.com)  •  Daria (@dhalushka)
 
-[<img src="assets/LinkedInLogo.png"  width="10%" >](https://www.linkedin.com/in/daria-galushko/)   [ <img src="assets/githublogo.png"  width="10%" >](https://github.com/DHalushka)   [ <img src="assets/telegramlogo.png"  width="10%" >](https://t.me/daria_galushko)
+[<img src="assets/LinkedInlogo.png"  width="10%" >](https://www.linkedin.com/in/daria-galushko/)   [ <img src="assets/githublogo.png"  width="10%" >](https://github.com/DHalushka)   [ <img src="assets/telegramlogo.png"  width="10%" >](https://t.me/daria_galushko)
 
 ---
 
