@@ -1,10 +1,10 @@
-<img src="assets/HelloItsMe.jpg"  width="20%" height="20%">
+<img src="assets/HelloItsMe.jpg"  width="180px" height="180px">
 
 # Daria Galushko
 
 Minsk, Belarus  •  +375(33)341-01-31  •  [galushkodaria@gmail.com](mailto:galushkodaria@gmail.com)  •  Daria (@dhalushka)
 
-[<img src="assets/LinkedInlogo.png"  width="10%" >](https://www.linkedin.com/in/daria-galushko/)   [ <img src="assets/githublogo.png"  width="10%" >](https://github.com/DHalushka)   [ <img src="assets/telegramlogo.png"  width="10%" >](https://t.me/daria_galushko)
+[<img src="assets/LinkedInlogo.png"  width="90px" height = "45px">](https://www.linkedin.com/in/daria-galushko/)   [ <img src="assets/githublogo.png"  width="90px" height = "45px">](https://github.com/DHalushka)   [ <img src="assets/telegramlogo.png"  width="90px" height = "45px">](https://t.me/daria_galushko)
 
 ---
 
@@ -15,10 +15,11 @@ Growing front end developer. Proficient in JavaScript programming language. Have
 
 ## Key Skills
 
-
-*   English (B2+)          ●  Node.js                    ●  CSS3               ●  Figma
-*   JavaScript               ●  Git                            ●  SASS               ●  REST APIs
-*   React                     ●  ECMAScript6            ●  HTML5            ●  JSON
+|             |           |       |            |
+|-------------|-----------|-------|------------|
+|English (B2+)|Node.js    |CSS3   |Figma       |   
+|JavaScript   |Git        |HTML5  |SASS        |   
+|React        |ECMAScript6|JSON   |REST APIs   |  
 
 ## Experience
 
@@ -28,6 +29,7 @@ _Pre-diploma practice on the basis of which the project of the Electronic Games 
 
 *   Creating multi-page site with the electronic platform for selling computer games.
 *   Using JavaScript, ReactJS framework, database cloud service “Firebase”.
+
 
 **Internship**, IBA Group | September 2021 - December 2021
 
