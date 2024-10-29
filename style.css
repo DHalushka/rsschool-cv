@@ -1,8 +1,18 @@
+@import url("https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300..800;1,300..800&family=Work+Sans:ital,wght@0,100..900;1,100..900&display=swap");
+
 /*Обнуление*/
+:root {
+	--dark-blue: #12333d;
+	--carrot: #a04630;
+	--dark-purple: #493b48;
+	--dark-green: #3e4c48;
+	--color-white: #f4f2ef;
+}
 *,*:before,*:after{
 	-moz-box-sizing: border-box;
 	-webkit-box-sizing: border-box;
 	box-sizing: border-box;
+	font-family: "Work Sans", sans-serif;
 }
 :focus,:active{outline: none;}
 a:focus,a:active{outline: none;}
@@ -32,7 +42,7 @@ input,button,textarea{font-family:inherit;}
 input::-ms-clear{display: none;}
 button{cursor: pointer;}
 button::-moz-focus-inner {padding:0;border:0;}
-a, a:visited{text-decoration: none; color: black;}
+a, a:visited{text-decoration: none;}
 a:hover{text-decoration: none;}
 ul li{list-style: none;}
 img{vertical-align: top;}
@@ -47,28 +57,45 @@ h1,h2,h3,h4,h5,h6{/*font-size:inherit;*/font-weight: 400;}
 
 
 body{
-	width: 60%;
+	width: 80%;
 	margin: 0 auto;
-	background-color: lightgrey;
+	background-color: var(--color-white);
+}
+header a{
+	color: var(--carrot);
+	font-weight: 600;
 }
 h2{
 	text-align: center;
+	font-weight: 600;
+	color: var(--carrot);
 }
 #contacts{
 	display: flex;
 	justify-content: space-between;
 	align-items: center;
+	padding: 40px;
+}
+h1{
+	color: var(--carrot);
+	font-size: 2rem;
+	font-weight: 600;
 }
 #contacts>img{
-	width: 20%;
+	width: 25%;
+}
+#contacts div{
+	display: flex;
+	flex-direction: column;
 }
 #contacts ul{
 	display: flex;
 	gap: 20px;
+	padding: 0;
 }
-
-.social-links img{
-    width: 100px;
+#contacts ul li a,
+#contacts ul li{
+	color: black;
 }
 
 #skills > div{
@@ -80,7 +107,10 @@ h2{
 	margin-right: 4px;
 }
 .experience-place{
-	background-color: darkgray;
+	color: var(--color-white);
+	background-color: var(--dark-green);
+	padding: 3px;
+	width: fit-content;
 }
 #experience ul li{
 	list-style-type: disc;
@@ -90,13 +120,25 @@ h2{
 }
 hr{
 	height: 6px;
-	background-color: darkgrey;
+	background-color: var(--dark-blue);
 	border: none;
 	margin-top: 30px;
 }
+pre{
+	font-family: 'Courier New', Courier, monospace;
+	background-color: var(--dark-green);
+	border-radius: 10px;
+	padding: 10px 80px 10px 40px;
+	color: var(--color-white);
+	width: max-content;
+}
 footer, header{
-	background-color: darkgray;
+	background-color: var(--dark-blue);
 	padding: 20px 0;
+}
+footer a{
+	color: var(--carrot);
+	font-weight: 600;
 }
 footer img{
 	height: 100%;
@@ -107,8 +149,4 @@ footer ul, header ul{
 }
 a:hover{
 	font-weight: 900;
-}
-a img:hover{
-	width: 120px;
-	transition: 0.3s;
 }
